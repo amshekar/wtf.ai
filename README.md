@@ -6,9 +6,10 @@ I am excited to present to you an omniscient app that can answer all your questi
 
 In this presentation, we will cover the following topics:
 
-1. Overview of the Ts-sarvajna app
+1. Overview of the wtf.ai app
 2. How the app works
-3. Benefits of using the app
+3. Benefi
+of using the app
 4. Overview of LlAMa
 5.  Risks
 6.  Under Lying Architecture
@@ -42,7 +43,7 @@ It can improve your productivity by allowing you to focus on more important task
 
 LlAMa is a state-of-the-art large language model based on the GPT(Generative Pre-trained Transformer) architecture. Specifically, it is a fine-tuned version of the GPT-3 model, which can run on your local computer. LlamaHub.ai provides a central interface in the form of a custom indexing system called LlamaIndex (GPT Index), which enables you to connect your large language models with external data. This allows you to index your data for various tasks, such as text generation, summarization, question answering, and more.
 
-In conclusion, the omniscient app powered by LlAMa is a powerful tool that can answer all your questions. It is easy to use and provides accurate information, thanks to the Ts-sarvajna team's contributions and the LlamaHub.ai platform. If you have any questions, I highly recommend giving the app a try. Thank you.
+In conclusion, the omniscient app powered by LlAMa is a powerful tool that can answer all your questions. It is easy to use and provides accurate information, thanks to the wtf.ai team's contributions and the LlamaHub.ai platform. If you have any questions, I highly recommend giving the app a try. Thank you.
 Its an Omniscient app which answer all your questions
 
 ## 5. Risks
@@ -61,7 +62,7 @@ To mitigate these risks, it is important to carefully select and preprocess the 
 
    The Transformer architecture is characterized by its use of self-attention mechanisms, which allow it to capture the dependencies between words in a sentence more effectively than traditional recurrent neural networks (RNNs). The architecture consists of an encoder and a decoder, each of which is composed of multiple layers of self-attention and feedforward neural networks.
 
-  Llama is a fine-tuned version of the GPT-3 model, which is one of the largest and most advanced language models based on the Transformer architecture. The fine-tuning process involves training the model on additional data to improve its performance on specific tasks, such as question answering. The Ts-sarvajna team has contributed custom data to train Llama and make it more effective at answering questions
+  Llama is a fine-tuned version of the GPT-3 model, which is one of the largest and most advanced language models based on the Transformer architecture. The fine-tuning process involves training the model on additional data to improve its performance on specific tasks, such as question answering. The wtf.ai team has contributed custom data to train Llama and make it more effective at answering questions
 
 
 
