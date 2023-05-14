@@ -1,0 +1,38 @@
+EPAM’s API Security Assessment
+
+Ensuring Security is at the Center of Your API Strategy
+
+Web APIs have emerged as one of the leading vectors of cyberattacks. EPAM’s API Security Assessment helps you lock down API definitions to reduce attack surface and remove any gaps in your defense.
+We leverage the market-leading 42crunch API security platform to perform static analysis on your top 15 APIs’ definitions.
+After the assessment, EPAM will provide you with a report that outlines security concerns and recommendations.
+EPAM’s Assessment Reviews Your API Definitions on Three Levels
+
+API Format
+
+Are your APIs valid and well-formed files?
+Do they follow best practices?
+Can they be parsed, reviewed or protected? 
+Security
+
+How good are the security definitions in your APIs?
+Have you defined authentication and authorization methods?
+Is your protocol secure enough?
+Data Validation
+
+What is the quality of your APIs’ data definitions?
+How well have you defined what data your APIs accept as input or can include in the output they produce?
+How strong are the schemas you have defined for your APIs and their parameters?
+
+
+
+
+Learn How to Increase Your API Security Today!
+
+Contact us to learn how our API Security Assessment can help you identify and remove major vulnerabilities lurking within your APIs.
+
+OrgAPIPractice@epam.com
+
+About EPAM’s API Practice
+
+With expertise in every API integration and management platform, EPAM’s API practice helps our clients grow into composable enterprises built around reusable digital assets, connectivity and API-led delivery. We can design and engineer APIs that maximize your digital capabilities, enabling you to rapidly achieve your business initiatives.
+

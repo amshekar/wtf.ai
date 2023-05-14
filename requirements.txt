@@ -1,0 +1,6 @@
+Install Python
+Install Jupyter notebook : https://jupyter.org/install
+Install following packages using pip
+!pip install llama_index
+!pip install langchain
+Drop the custom knowledge files under data folder  
