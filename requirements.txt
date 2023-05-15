@@ -4,3 +4,10 @@ Install following packages using pip
 !pip install llama_index
 !pip install langchain
 Drop the custom knowledge files under data folder  
+Clone the project 
+navigate to the wtf.ai folder 
+type Jupyter notebook command
+open wtf-ai-Llama-gpt_openai.ipynb file 
+update the openAPI key at OPENAI_API_KEY
+Run the Jupyter notebook 
+can prepare your question and add it in cells on the run notebook you can see response
